@@ -17,11 +17,28 @@ This widget has several special features including:
 -Open a terminal and type:
 --chmod 0755 ~/.conky/MX-CoreRed/weather.sh
 
+# MX Linux Users
+-Open MX Package Installer
+
+-Click the tab Enabled Repos
+
+-In the Search type: "fortunes-debian-hint"
+
+-remember to click "Also Install "Recommended" Packages"
+
+-click install
+
+# Debian, Ubuntu, Mint Users
+-Open a terminal and type:
+```BASH
+sudo apt install fortunes fortunes-debian-hints
+```
+
 ## Additional Shortcuts
 -Create a Desktop Shortcut to ~/.conky/MX-CoreRed/todo.txt
 -or type:
 ```bash
-ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
+ln -s ~/.conky/MX-CoreRed/todo.txt ~/Desktop/
 ```
 <img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed.png?raw=true" width="250" height="725"><img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed_Plus.png?raw=true" width="250" height="725"><img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed_ToDo.png?raw=true" width="250" height="725">
 
