@@ -22,13 +22,12 @@ This widget has several special features including:
 ```bash
 ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
 ```
-<img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed.png?raw=true" width="250" height="725">
+<img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed.png?raw=true" width="250" height="725"><img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed_Plus.png?raw=true" width="250" height="725"><img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed_ToDo.png?raw=true" width="250" height="725">
 
-![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed.png?raw=true)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed_Plus.png?raw=true)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed_ToDo.png?raw=true)
+<img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc4coreRed.png?raw=true" width="250" height="725"><img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc4coreRed_Plus.png?raw=true" width="250" height="725"><img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc4coreRed_ToDo.png?raw=true" width="250" height="725">
 
-![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc4coreRed.png?raw=true)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc4coreRed_Plus.png?raw=true)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc4coreRed_ToDo.png?raw=true)
+<img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc8coreRed.png?raw=true" width="250" height="725"><img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc8coreRed_Plus.png?raw=true" width="250" height="725"><img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc8coreRed_ToDo.png?raw=true" width="250" height="725">
 
-![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc8coreRed.png?raw=true)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc8coreRed_Plus.png?raw=true)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc8coreRed_ToDo.png?raw=true)
 
 ## Pre-specify your zip code
 -This is not necessary but if you want the program to run a little faster and more accurate. Pre-specify your zip code.
