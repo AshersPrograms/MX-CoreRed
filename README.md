@@ -22,7 +22,7 @@ This widget has several special features including:
 ```bash
 ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
 ```
-![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed.png?raw=true =250x250)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed_Plus.png?raw=true)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed_ToDo.png?raw=true)
+![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed.png?raw=true  width="100" height="100")![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed_Plus.png?raw=true)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc2coreRed_ToDo.png?raw=true)
 
 ![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc4coreRed.png?raw=true)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc4coreRed_Plus.png?raw=true)![alt text](https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc4coreRed_ToDo.png?raw=true)
 
