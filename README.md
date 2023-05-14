@@ -17,7 +17,6 @@ This widget has several special features including:
 
 ## Additional Shortcuts
 -Create a Desktop Shortcut to ~/.conky/MX-CoreRed/todo.txt
-
 -or type:
 ```bash
 ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
