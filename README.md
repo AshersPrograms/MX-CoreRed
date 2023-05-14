@@ -33,6 +33,6 @@ ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
 
 -Open a terminal and type:
 ```bash
-sed -i '11s/.*/YOURZIPCODE=12345}/' ~/.conky/MX-CoreRed/weather.sh
+sed -i '18s/.*/YOURZIPCODE=12345}/' ~/.conky/MX-CoreRed/weather.sh
 ```
 **replace 12345 with your zip code
