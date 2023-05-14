@@ -14,8 +14,11 @@ This widget has several special features including:
 
 # Installation Instructions:
 -Download and unzip the folder to ~/.conky/
--Open a terminal and type:
---chmod 0755 ~/.conky/MX-CoreRed/weather.sh
+
+Open a terminal and type:
+```BASH
+chmod 0755 ~/.conky/MX-CoreRed/weather.sh
+```
 
 # MX Linux Users
 -Open MX Package Installer
