@@ -29,7 +29,7 @@ ln -s ~/.conky/MX-CoreRed_8ToDo/todo.txt ~/Desktop/
 
 
 ## Pre-specify your zip code
--This is not necessary but if you want the program to run a little faster and more accurate. Pre-specify your zip code.
+-This is not necessary but, if you want the program to run a little faster and more accurate. Pre-specify your zip code.
 
 -Open a terminal and type:
 ```bash
