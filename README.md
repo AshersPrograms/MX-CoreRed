@@ -19,7 +19,11 @@ This widget has several special features including:
 <img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc8coreRed.png?raw=true" width="250" height="725"><img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc8coreRed_Plus.png?raw=true" width="250" height="725"><img src="https://github.com/AshersPrograms/MX-CoreRed/blob/main/conkyrc8coreRed_ToDo.png?raw=true" width="250" height="725">
 
 # Installation Instructions:
--Download and unzip the folder to ~/.conky/
+-Download and unzip the folder
+
+-Rename the directory to MX-CoreRed
+
+-Copy or Move the directory to ~/.conky/
 
 Open a terminal and type:
 ```BASH
