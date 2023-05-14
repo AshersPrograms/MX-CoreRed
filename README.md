@@ -1,4 +1,4 @@
-# MX-CoreRed_8ToDo
+# MX-CoreRed
 This is a set of widgets plug-ins made for Conky for 2,4, or 8 CPU's.
 There are 9 red Theme include.
 There are 3 main types with each theme coming in 2CPU's 4CPU's and 8CPU's
