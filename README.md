@@ -30,7 +30,7 @@ Open a terminal and type:
 chmod 0755 ~/.conky/MX-CoreRed/weather.sh
 ```
 
-# MX Linux Users
+# MX Linux Users Install Proceedures
 -Open MX Package Installer
 
 -Click the tab Enabled Repos
@@ -51,9 +51,8 @@ chmod 0755 ~/.conky/MX-CoreRed/weather.sh
 
 -Click install
 
-# Debian, Ubuntu, Mint Users
+# Debian, Ubuntu, Mint Users Install Proceedures
 You are going to install 3 programs fortunes, fortunes-debian-hints, curl, and jq **
-
 
 -Open a terminal and type:
 ```BASH
@@ -72,8 +71,6 @@ sudo apt install fortunes fortunes-debian-hints curl jq
 ```bash
 ln -s ~/.conky/MX-CoreRed/todo.txt ~/Desktop/
 ```
-
-
 
 ## Pre-specify your zip code
 -This is not necessary but, if you want the program to run a little faster and more accurate. Pre-specify your zip code.
