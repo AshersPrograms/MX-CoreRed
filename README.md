@@ -35,7 +35,7 @@ chmod 0755 ~/.conky/MX-CoreRed/weather.sh
 
 -Click the tab Enabled Repos
 
--In the Search type: "fortunes-debian-hint"
+-In the Search type: "fortunes"
 
 -Click the box fortunes and fortune-debian-hint
 
