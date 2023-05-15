@@ -73,10 +73,18 @@ ln -s ~/.conky/MX-CoreRed/todo.txt ~/Desktop/
 ```
 
 ## Pre-specify your zip code
--This is not necessary but, if you want the program to run a little faster and more accurate. Pre-specify your zip code.
+-This is not necessary but, if you want the program to run a little faster and more accurate. Pre-specify your zip code. If you use this option then you do not have to install curl or jq.
 
 -Open a terminal and type:
 ```bash
 sed -i '18s/.*/YOURZIPCODE=12345/' ~/.conky/MX-CoreRed/weather.sh
 ```
 **replace 12345 with your zip code
+
+# Security
+For complete security check with your system administration before installing this program. This program looks up your Ip address and retrieves information from several web sites here is a list of web sites this program contacts:
+- https://api.ipify.org
+- https://ipapi.co
+- http://rss.accuweather.com
+
+*You can find the BASH script here and how it is using these web-sites. https://github.com/AshersPrograms/MX-CoreRed/blob/main/weather.sh
