@@ -52,7 +52,7 @@ chmod 0755 ~/.conky/MX-CoreRed/weather.sh
 -Click install
 
 # Debian, Ubuntu, Mint Users Install Proceedures
-You are going to install 3 programs fortunes, fortunes-debian-hints, curl, and jq **
+You are going to install 4 programs fortunes, fortunes-debian-hints, curl, and jq **
 
 -Open a terminal and type:
 ```BASH
