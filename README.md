@@ -37,15 +37,30 @@ chmod 0755 ~/.conky/MX-CoreRed/weather.sh
 
 -In the Search type: "fortunes-debian-hint"
 
+-Click the box fortunes and fortune-debian-hint
+
+-remember to click "Also Install "Recommended" Packages"
+
+-click install
+
+-Next In the Search type: "curl"
+
+-Click the box curl
+
 -remember to click "Also Install "Recommended" Packages"
 
 -click install
 
 # Debian, Ubuntu, Mint Users
+You are going to install 3 programs fortunes, fortunes-debian-hints, and curl **
+
 -Open a terminal and type:
 ```BASH
-sudo apt install fortunes fortunes-debian-hints
+sudo apt install fortunes fortunes-debian-hints curl
 ```
+
+**You also need perl install but most distro this comes standard but just as a side note if there are any issues.
+
 
 ## Additional Shortcuts
 -Create a Desktop Shortcut to ~/.conky/MX-CoreRed/todo.txt
