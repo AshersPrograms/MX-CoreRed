@@ -87,4 +87,4 @@ For complete security check with your system administration before installing th
 - https://ipapi.co
 - http://rss.accuweather.com
 
-*You can find the BASH script here and how it is using these web-sites. https://github.com/AshersPrograms/MX-CoreRed/blob/main/weather.sh
+*You can find the BASH script here and how these website are being used to retrieve your IpAddress, your ZipCode, then the Weather. https://github.com/AshersPrograms/MX-CoreRed/blob/main/weather.sh
