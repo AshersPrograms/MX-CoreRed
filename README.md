@@ -43,20 +43,26 @@ chmod 0755 ~/.conky/MX-CoreRed/weather.sh
 
 -Click the box curl
 
--remember to click "Also Install "Recommended" Packages"
+-Next In the Search type: "jq"
 
--click install
+-Click the box jq
+
+-Remember to click "Also Install "Recommended" Packages"
+
+-Click install
 
 # Debian, Ubuntu, Mint Users
-You are going to install 3 programs fortunes, fortunes-debian-hints, and curl **
+You are going to install 3 programs fortunes, fortunes-debian-hints, curl, and jq **
+
 
 -Open a terminal and type:
 ```BASH
-sudo apt install fortunes fortunes-debian-hints curl
+sudo apt install fortunes fortunes-debian-hints curl jq
 ```
 
 **You also need perl install but most distro this comes standard but just as a side note if there are any issues.
-
+*curl, command line tool for transferring data with USL syntax
+*jq, lightweight and flexible command-line JSON processor
 
 ## Additional Shortcuts
 -Create a Desktop Shortcut to ~/.conky/MX-CoreRed/todo.txt
