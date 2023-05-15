@@ -39,10 +39,6 @@ chmod 0755 ~/.conky/MX-CoreRed/weather.sh
 
 -Click the box fortunes and fortune-debian-hint
 
--remember to click "Also Install "Recommended" Packages"
-
--click install
-
 -Next In the Search type: "curl"
 
 -Click the box curl
