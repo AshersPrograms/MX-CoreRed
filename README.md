@@ -61,7 +61,9 @@ sudo apt install fortunes fortunes-debian-hints curl jq
 ```
 
 **You also need perl install but most distro this comes standard but just as a side note if there are any issues.
+
 *curl, command line tool for transferring data with USL syntax
+
 *jq, lightweight and flexible command-line JSON processor
 
 ## Additional Shortcuts
