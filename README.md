@@ -8,7 +8,7 @@ There are 3 main types with each theme coming in 2CPU's 4CPU's and 8CPU's
 # Special Features
 This widget has several special features including: 
 - A To Do List
-- Weather for your ip address
+- Current Weather 
 - Debian Hints
 - Displays up to 8 CPU Percentages
 
